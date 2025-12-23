@@ -1,0 +1,14 @@
+[project]
+name = "contrastive-spiking-graph-neuralnetwork"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "networkx",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+    "torch-geometric>=2.7.0",
+    "wget>=3.2",
+]
